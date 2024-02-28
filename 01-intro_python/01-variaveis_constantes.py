@@ -39,11 +39,6 @@ linhas
 # Docstring (comentario de documentação)
 # Documentar classe, modulos, funções, ...
 
-# Exemplo Java
-static somar(double numero1, double numero2) {
-    return numero1 + numero2
-}
-
 
 def somar (numero1,numero2):
     '''
